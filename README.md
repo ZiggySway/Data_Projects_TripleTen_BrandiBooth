@@ -8,7 +8,7 @@ Projects I worked on while attending; Data Science TripleTen Bootcamp.
 | 2 | [Computer Vision](https://github.com/ZiggySway/Machine_Learning_and_Data_Projects__BrandiBooth/tree/main/Computer_vision_upload) | Use Data Science to compute the age of faces to keep grocery chain from selling alcohol to minors.  |
 | 3 | [Machine Learning for texts](https://github.com/ZiggySway/Machine_Learning_and_Data_Projects__BrandiBooth/tree/main/Machine_Learning_for_text_upload) | A classification project to determine if/ which movie reviews are positive and which are negative. |
 | 4 | [Time Series](https://github.com/ZiggySway/Machine_Learning_and_Data_Projects__BrandiBooth/tree/main/Time_series_to_upload)| Resample data. Feature engineer time spacing features. And create functions to plot time intervals. |
-| 5 | Numerical Methods | lkjdlfkjdlkfjdl |
+| 5 | [Numerical Methods](https://github.com/ZiggySway/Machine_Learning_and_Data_Projects__BrandiBooth/tree/main/Numerical_Methods_To_upload) | Using math methods for predicting price value in datasets within machine learning |
 | 6 | Linear Algebra | data obfuscation|
 | 7 | Integrated Project 2nd | lkjflkjfklj |
 | 8 | Machine Learning in Business | skjlkdfjlkjf |
