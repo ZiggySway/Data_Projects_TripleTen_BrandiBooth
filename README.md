@@ -11,7 +11,7 @@ Projects I worked on while attending; Data Science TripleTen Bootcamp.
 | 5 | [Numerical Methods](https://github.com/ZiggySway/Machine_Learning_and_Data_Projects__BrandiBooth/tree/main/Numerical_Methods_To_upload) | Using math methods for predicting price value in datasets within machine learning. |
 | 6 | [Linear Algebra](https://github.com/ZiggySway/Machine_Learning_and_Data_Projects__BrandiBooth/tree/main/Linear_Algebra_To_upload) | Data obfuscation. Data Privacy. Usage of scaling data; and distance vectors.|
 | 7 | [Integrated Project 2nd](https://github.com/ZiggySway/Machine_Learning_and_Data_Projects__BrandiBooth/tree/main/An_Integrated_Project_2_To_upload) | Predictive modeling. Prevention of data leakage. Functions and pipelines to build cross validating models. Machine Learning |
-| 8 | Machine Learning in Business | skjlkdfjlkjf |
+| 8 | [Machine Learning in Business] (https://github.com/ZiggySway/Machine_Learning_and_Data_Projects__BrandiBooth/tree/main/Machine_Learning_in_Business_To_upload) | Analyze data and build models for automatically determining best new profitable build sites. |
 | 9 | Supervised Learning | lkjflkjflkjf |
 | 10 | Beginner Machine Learning | lksjdflkjfl |
 | 11 | Data Collection and Storage | ksjdflkjflk |
