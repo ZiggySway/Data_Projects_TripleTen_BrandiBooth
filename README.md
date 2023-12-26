@@ -9,7 +9,7 @@ Projects I worked on while attending; Data Science TripleTen Bootcamp.
 | 3 | [Machine Learning for texts](https://github.com/ZiggySway/Machine_Learning_and_Data_Projects__BrandiBooth/tree/main/Machine_Learning_for_text_upload) | A classification project to determine if/ which movie reviews are positive and which are negative. |
 | 4 | [Time Series](https://github.com/ZiggySway/Machine_Learning_and_Data_Projects__BrandiBooth/tree/main/Time_series_to_upload)| Tlkjlkjdlfkjlf |
 | 5 | Numerical Methods | lkjdlfkjdlkfjdl |
-| 6 | Linear Algebra | lkjlkjflkjf |
+| 6 | Linear Algebra | data obfuscation|
 | 7 | Integrated Project 2nd | lkjflkjfklj |
 | 8 | Machine Learning in Business | skjlkdfjlkjf |
 | 9 | Supervised Learning | lkjflkjflkjf |
