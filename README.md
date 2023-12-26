@@ -13,7 +13,7 @@ Projects I worked on while attending; Data Science TripleTen Bootcamp.
 | 7 | [Integrated Project 2nd](https://github.com/ZiggySway/Machine_Learning_and_Data_Projects__BrandiBooth/tree/main/An_Integrated_Project_2_To_upload) | Predictive modeling. Prevention of data leakage. Functions and pipelines to build cross validating models. Machine Learning |
 | 8 | [Machine Learning in Business](https://github.com/ZiggySway/Machine_Learning_and_Data_Projects__BrandiBooth/tree/main/Machine_Learning_in_Business_To_upload) | Analyze data and build models for automatically determining best new profitable build sites. |
 | 9 | [Supervised Learning](https://github.com/ZiggySway/Machine_Learning_and_Data_Projects__BrandiBooth/tree/main/Supervised_Learning_To_upload) | Train the model to learn from itself.  Use scaler and transform to apply the scaled/weighted data. |
-| 10 | Beginner Machine Learning | lksjdflkjfl |
+| 10 | [Beginner Machine Learning](https://github.com/ZiggySway/Machine_Learning_and_Data_Projects__BrandiBooth/tree/main/Beginner_Machine_Learning_To_upload) | Execute machine learning using classification models.  Use the train_test_split function to break up the data and build different sets. |
 | 11 | Data Collection and Storage | ksjdflkjflk |
 | 12 | Integrated Pro beginner | lskdjflfkj |
 | 13 | Software tools | A completed work that uses CL, web app creation, and version control. Link to orginal project included with this overall project; https://github.com/ZiggySway/salaries/tree/master |
