@@ -1,5 +1,5 @@
 # SQL - Advanced
-
+![sql_work_plat](https://github.com/ZiggySway/Machine_Learning_and_Data_Projects__BrandiBooth/assets/130495796/29877c1d-6c23-4ae2-8ea1-af47cacbdf49)
 ### The company name is Zuber
 
 For this project I examine Taxi companies. I identify the top 10 neighborhoods for rides.  I also test a hypothesis.  The null hypothesis: The average duration of rides from the Loop to O'Hare International Airport changes on rainy Saturdays.
@@ -18,6 +18,6 @@ I parse the data from the internet using a request.get function and Using Beauti
 ### Results
 
 Through Explotary Data Analysis, it is shown which company has the greatest ride share, market share. I used visualizations to display the top 20 companies, which Flash Cab being the largest market share holder. I also use visualization to show the largest drop off neighborhood, which is Loop.  I come to the conclusion to Reject the null hypothesis: The average duration of rides from the Loop to O'Hare International Airport changes on rainy Saturdays.
-![sql_work_plat](https://github.com/ZiggySway/Machine_Learning_and_Data_Projects__BrandiBooth/assets/130495796/29877c1d-6c23-4ae2-8ea1-af47cacbdf49)
+
 
 
