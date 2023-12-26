@@ -16,7 +16,7 @@ Projects I worked on while attending; Data Science TripleTen Bootcamp.
 | 10 | Beginner Machine Learning | lksjdflkjfl |
 | 11 | Data Collection and Storage | ksjdflkjflk |
 | 12 | Integrated Pro beginner | lskdjflfkj |
-| 13 | Software tools | alkdjfkdjflkfj |
+| 13 | Software tools | A completed work that uses CL, web app creation, and version control. Link to orginal project included with this overall project; https://github.com/ZiggySway/salaries/tree/master |
 | 14 | Statistical Data Analysis | alkjdflkjf |
 | 15 | Explatory Data Analysis | lkfjlkfjflk |
 | 16 | Data with Python | lskjflkfj |
