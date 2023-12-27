@@ -17,7 +17,7 @@ If a person wants to utilize this code; they can fork the code in github and per
 
 #### The Data
 
-The original data is on my own github under respository; salaries.  
+The original data is on my own github under respository; salaries.  https://github.com/ZiggySway/salaries
 And has a display of usage on a website built using streamlit at 
 https://salaries.onrender.com/
 
