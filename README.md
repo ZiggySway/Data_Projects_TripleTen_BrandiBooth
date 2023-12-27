@@ -16,7 +16,7 @@ Projects I worked on while attending; Data Science TripleTen Bootcamp.
 | 10 | [Beginner Machine Learning](https://github.com/ZiggySway/Machine_Learning_and_Data_Projects__BrandiBooth/tree/main/Beginner_Machine_Learning_To_upload) | Execute machine learning using classification models.  Use the train_test_split function to break up the data and build different sets. |
 | 11 | [Data Collection and Storage(SQL)](https://github.com/ZiggySway/Machine_Learning_and_Data_Projects__BrandiBooth/tree/main/SQL_To_upload) | Parse data from the internet using request.get function and Using BeautifulSoup. Perform SQL on platform relatable to PostgreSQL. Perfrom EDA using Jupyter notebook. Process the data. |
 | 12 | [Integrated Pro beginner](https://github.com/ZiggySway/Machine_Learning_and_Data_Projects__BrandiBooth/tree/main/An_Integrated_Project_1_To_upload) | For a large gaming company do SDA and determine/forcast company sales. |
-| 13 | Software tools | A completed work that uses CL, web app creation, and version control. Link to orginal project included with this overall project; https://github.com/ZiggySway/salaries/tree/master |
-| 14 | Statistical Data Analysis | alkjdflkjf |
+| 13 | [Software tools](https://github.com/ZiggySway/Machine_Learning_and_Data_Projects__BrandiBooth/tree/main/Software_Tools_To_upload) | A completed work that uses CL, web app creation, and version control. Link to orginal project included with this overall project; https://github.com/ZiggySway/salaries/tree/master |
+| 14 | [Statistical Data Analysis](https://github.com/ZiggySway/Machine_Learning_and_Data_Projects__BrandiBooth/tree/main/Statistical_Data_Analysis_To_upload) | Use 5 datasets, use skills such as concatenate, pivot tables and determine clients behavior and which product brings in the most revenue. |
 | 15 | Explatory Data Analysis | lkfjlkfjflk |
 | 16 | Data with Python | lskjflkfj |
