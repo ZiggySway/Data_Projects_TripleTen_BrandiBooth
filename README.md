@@ -1,7 +1,7 @@
 # TripleTen_projects
 Projects I worked on while attending; Data Science TripleTen Bootcamp. 
 
-You can vist my [Linkedin HERE](www.linkedin.com/in/brandi-booth-data-science)
+You can vist my [Linkedin](www.linkedin.com/in/brandi-booth-data-science)
 
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
