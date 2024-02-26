@@ -18,7 +18,7 @@ The data was combed and presented.  Real car facts gathered and processed.
 
 ### Results
 
-The dummy model happened to be the fastest.  But since we need accuracy; RFR and Catboost provide higher accuracy.  Considering speed and accuracy RFR is a good model to perform the cost analysis.   
+I build a model that predicts price with accurate efficiency.  The dummy model happened to be the fastest.  But since we need accuracy; RFR and Catboost provide higher accuracy.  Considering speed and accuracy RFR is a good model to perform the cost analysis.  <b>(Predictive models, computational run time) 
 
 
 
