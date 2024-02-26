@@ -2,7 +2,7 @@
 
 ### The company name is Online Video Game Distributor, Ice
 
-This project shows my analysis and statistical work for an online video gaming store that has world wide reach.   Here I infer useful information for game make production and selling expectations.  My job is to identify patterns that determines whether a game succeeds or not.  With this information I will infer big winners and help advise the marketing team for advertising campaigns.  I am helping to forecast 2017 sales. 
+This project is a competition analysis and statistical work for an online video gaming store that has world wide reach.   Here I infer useful information for game make production and selling expectations.  My job is to identify patterns that determines whether a game succeeds or not.  With this information I will infer big winners and help advise the marketing team for advertising campaigns.  I am helping to forecast 2017 sales. 
 
  
 ### Details of Statistical Analysis and Forecasting
